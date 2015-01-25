@@ -4,6 +4,7 @@ class Fixture
 
   field :home_team, type: Moped::BSON::ObjectId
   field :away_team, type: Moped::BSON::ObjectId
+  field :abelson_id, type: Integer
 
   field :name, type: String
   field :start_time, type: TimeWithZone
