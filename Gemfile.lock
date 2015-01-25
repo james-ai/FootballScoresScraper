@@ -239,6 +239,7 @@ DEPENDENCIES
   less-rails-bootstrap
   mongoid (~> 4.0.0)
   moped (~> 2.0.0)
+  nokogiri
   rails (= 4.2.0)
   rspec-rails
   sdoc (~> 0.4.0)

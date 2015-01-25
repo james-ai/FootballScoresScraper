@@ -29,6 +29,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Pagination
 gem 'kaminari'
 
+gem 'nokogiri'
+
 group :development do
   gem 'capistrano-rails'
   gem 'better_errors'
